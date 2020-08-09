@@ -6,3 +6,10 @@ availableValues:
   - bbb
   - aaa
   - asdf
+value:
+  - percentage: 33
+    option: bbb
+  - percentage: 33
+    option: aaa
+  - percentage: 34
+    option: asdf
