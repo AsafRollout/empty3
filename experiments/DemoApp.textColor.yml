@@ -3,7 +3,9 @@ type: experiment
 labels: lbl2
 flag: DemoApp.textColor
 availableValues:
-  - asdf
   - bbb
+  - aaa
+  - asdf
 conditions:
   - value: bbb
+value: aaa
