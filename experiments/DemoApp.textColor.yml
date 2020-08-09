@@ -3,8 +3,10 @@ type: experiment
 labels: lbl2
 flag: DemoApp.textColor
 availableValues:
-  - asdf
   - bbb
+  - asdf
   - '3'
   - black
+conditions:
+  - value: bbb
 value: asdf
