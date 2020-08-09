@@ -4,4 +4,4 @@ labels: lbl
 flag: DemoApp.flagB
 value:
   - option: true
-    percentage: 200
+    percentage: 0
