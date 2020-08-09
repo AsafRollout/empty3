@@ -5,4 +5,4 @@ flag: DemoApp.textColor
 availableValues: []
 conditions:
   - value: cdre
-value: abc
+value: abcd
