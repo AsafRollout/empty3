@@ -1,6 +1,8 @@
 # This file was edited by CloudBees Feature Flags
 type: experiment
 labels: lbl2
-enabled: false
 flag: DemoApp.textColor
 availableValues: []
+conditions:
+  - value: cdre
+value: abc
