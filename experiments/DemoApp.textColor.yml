@@ -6,6 +6,3 @@ availableValues:
   - bbb
   - aaa
   - asdf
-conditions:
-  - value: bbb
-value: aaa
