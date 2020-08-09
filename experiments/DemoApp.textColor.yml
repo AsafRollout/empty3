@@ -3,6 +3,3 @@ type: experiment
 labels: lbl2
 flag: DemoApp.textColor
 availableValues: []
-conditions:
-  - value: cdre
-value: abcd
