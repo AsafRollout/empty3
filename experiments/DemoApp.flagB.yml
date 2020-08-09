@@ -1,0 +1,4 @@
+# This file was edited by CloudBees Feature Flags
+type: experiment
+flag: DemoApp.flagB
+value: true
