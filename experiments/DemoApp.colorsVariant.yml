@@ -1,0 +1,10 @@
+# This file was edited by CloudBees Feature Flags
+type: experiment
+name: colors variant
+enabled: false
+flag: DemoApp.colorsVariant
+availableValues:
+  - blue
+  - green
+  - red
+value: blue
