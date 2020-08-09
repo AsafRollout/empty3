@@ -2,4 +2,6 @@
 type: experiment
 labels: lbl
 flag: DemoApp.flagB
-value: false
+value:
+  - option: true
+    percentage: 0.5
