@@ -3,13 +3,7 @@ type: experiment
 labels: lbl2
 flag: DemoApp.textColor
 availableValues:
-  - bbb
   - aaa
+  - bbb
   - asdf
-value:
-  - percentage: 33
-    option: bbb
-  - percentage: 33
-    option: aaa
-  - percentage: 34
-    option: asdf
+value: aaa
