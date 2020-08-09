@@ -5,4 +5,3 @@ flag: DemoApp.textColor
 availableValues:
   - '3'
   - black
-value: '3'
