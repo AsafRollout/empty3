@@ -6,7 +6,6 @@ availableValues:
   - bbb
   - aaa
   - asdf
-  - qqq
 conditions:
   - value:
       - percentage: 60
@@ -15,6 +14,4 @@ conditions:
         option: aaa
       - percentage: 0
         option: asdf
-      - percentage: 0
-        option: qqq
 value: aaa
