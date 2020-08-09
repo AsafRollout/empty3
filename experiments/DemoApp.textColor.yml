@@ -7,5 +7,9 @@ availableValues:
   - aaa
   - asdf
 conditions:
-  - value: bbb
+  - value:
+      - percentage: 60
+        option: bbb
+      - percentage: 40
+        option: aaa
 value: aaa
