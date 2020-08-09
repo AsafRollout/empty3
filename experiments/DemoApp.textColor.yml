@@ -15,6 +15,6 @@ conditions:
         option: qqq
       - percentage: 40
         option: aaa
-      - percentage: asdf
+      - percentage: zzz
         option: asdf
 value: aaa
