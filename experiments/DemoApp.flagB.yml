@@ -2,5 +2,5 @@
 type: experiment
 flag: DemoApp.flagB
 value:
-  - percentage: 30
+  - percentage: 0
     option: true
