@@ -12,4 +12,6 @@ conditions:
         option: bbb
       - percentage: 40
         option: aaa
+      - percentage: 0
+        option: asdf
 value: aaa
