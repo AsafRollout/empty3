@@ -3,5 +3,12 @@ type: experiment
 labels: lbl
 flag: DemoApp.flagB
 value:
-  - option: true
+  - from: 2020-08-09T14:44:16.745Z
     percentage: 0
+    option: true
+  - from: 2020-08-12T21:00:00.000Z
+    percentage: 100
+    option: true
+  - from: 2020-08-24T21:00:00.000Z
+    percentage: 0
+    option: true
