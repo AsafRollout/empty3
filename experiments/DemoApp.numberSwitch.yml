@@ -2,7 +2,13 @@
 type: experiment
 flag: DemoApp.numberSwitch
 availableValues:
-  - 345
   - 123
+  - 345
   - 32
+conditions:
+  - property:
+      name: numProp
+      operator: eq
+      operand: 5
+    value: 123
 value: 345
