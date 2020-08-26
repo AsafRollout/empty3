@@ -1,8 +1,0 @@
-# This file was edited by CloudBees Feature Flags
-type: experiment
-name: flag a
-flag: DemoApp.flagA
-platforms:
-  - name: Browser
-    value: true
-value: false

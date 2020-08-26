@@ -1,5 +1,0 @@
-# This file was edited by CloudBees Feature Flags
-type: experiment
-flag: DemoApp.numberVar
-availableValues:
-  - 123
