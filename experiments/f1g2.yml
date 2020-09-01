@@ -2,4 +2,7 @@
 type: experiment
 name: f 1 g 2
 flag: f1g2
+platforms:
+  - name: NodeJS
+    value: false
 value: false
