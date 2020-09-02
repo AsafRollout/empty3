@@ -2,4 +2,11 @@
 type: experiment
 name: title colors
 flag: titleColors
+conditions:
+  - property:
+      name: numProp
+      operator: in-array
+      operand:
+        - '5'
+    value: true
 value: false
