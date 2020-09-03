@@ -5,6 +5,7 @@ conditions:
     property: numProp
     operand:
       - '123'
+      - '234'
   - operator: ne
     property: contextBasedEmail
     operand: '123'
