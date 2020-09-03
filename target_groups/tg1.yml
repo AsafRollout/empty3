@@ -6,6 +6,7 @@ conditions:
     operand:
       - '123'
       - '234'
+      - '345'
   - operator: ne
     property: contextBasedEmail
     operand: '123'
