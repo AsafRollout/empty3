@@ -7,15 +7,4 @@ platforms:
     value: false
   - name: NodeJS
     value: false
-conditions:
-  - version:
-      operator: semver-eq
-      semver: '3'
-    property:
-      name: numProp
-      operator: ne
-      operand: '3'
-    value:
-      - percentage: 50
-        option: true
 value: false
