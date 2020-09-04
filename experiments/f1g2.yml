@@ -2,6 +2,11 @@
 type: experiment
 name: f 1 g 2
 flag: f1g2
+platforms:
+  - name: .NET
+    value: false
+  - name: NodeJS
+    value: false
 conditions:
   - version:
       operator: semver-eq
