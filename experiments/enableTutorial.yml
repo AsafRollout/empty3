@@ -2,4 +2,4 @@
 type: experiment
 name: enable tutorial
 flag: enableTutorial
-value: false
+value: true
