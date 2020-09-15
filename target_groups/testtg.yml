@@ -9,4 +9,4 @@ conditions:
       - '345'
   - operator: ne
     property: contextBasedEmail
-    operand: '123'
+    operand: '234'
