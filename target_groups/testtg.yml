@@ -1,0 +1,12 @@
+type: experiment
+name: testtg
+conditions:
+  - operator: in-array
+    property: numProp
+    operand:
+      - '123'
+      - '234'
+      - '345'
+  - operator: ne
+    property: contextBasedEmail
+    operand: '123'
