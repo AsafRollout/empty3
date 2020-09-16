@@ -2,4 +2,4 @@
 type: experiment
 name: say hello
 flag: DemoApp.sayHello
-value: false
+value: true
