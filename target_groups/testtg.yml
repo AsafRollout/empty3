@@ -1,4 +1,4 @@
-type: experiment
+type: target-group
 name: testtg
 conditions:
   - operator: in-array
