@@ -11,4 +11,6 @@ conditions:
         option: asdf
       - percentage: 50
         option: black
+      - percentage: 0
+        option: wow
 value: asdf
