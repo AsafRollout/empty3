@@ -5,8 +5,9 @@ flag: DemoApp.textColor
 availableValues:
   - asdf
   - black
-  - wow
   - blue
+  - wow
+  - ''
 conditions:
   - value:
       - percentage: 25
