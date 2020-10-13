@@ -3,11 +3,12 @@ type: experiment
 description: 'Experiment: DemoApp.textColor'
 flag: DemoApp.textColor
 availableValues:
+  - ''
   - asdf
   - black
-  - wow
   - blue
-  - ''
+  - wow
+  - zzz
 conditions:
   - value:
       - percentage: 25
