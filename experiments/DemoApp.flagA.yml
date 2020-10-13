@@ -1,5 +1,6 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
+description: 'Experiment: DemoApp.flagA'
 enabled: false
 flag: DemoApp.flagA
 value: true
