@@ -6,12 +6,11 @@ availableValues:
   - asdf
   - black
   - wow
+  - blue
 conditions:
   - value:
       - percentage: 50
         option: asdf
       - percentage: 50
         option: black
-      - percentage: 0
-        option: wow
 value: asdf
