@@ -1,5 +1,6 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
 name: say hello
+description: 'Experiment: say hello'
 flag: DemoApp.sayHello
 value: false

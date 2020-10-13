@@ -1,6 +1,7 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
 name: title colors
+description: 'Experiment: title colors'
 flag: titleColors
 conditions:
   - property:

@@ -1,6 +1,7 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
 name: f 1 g 2
+description: 'Experiment: f 1 g 2'
 flag: f1g2
 platforms:
   - name: .NET

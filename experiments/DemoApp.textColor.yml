@@ -1,7 +1,14 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
+description: 'Experiment: DemoApp.textColor'
 flag: DemoApp.textColor
 availableValues:
   - asdf
   - black
+conditions:
+  - value:
+      - percentage: 50
+        option: asdf
+      - percentage: 50
+        option: black
 value: asdf
