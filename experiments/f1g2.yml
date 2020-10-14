@@ -2,6 +2,7 @@
 type: experiment
 name: f 1 g 2
 description: 'Experiment: f 1 g 2'
+enabled: false
 flag: f1g2
 platforms:
   - name: .NET
