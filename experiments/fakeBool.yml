@@ -1,0 +1,10 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+enabled: false
+flag: fakeBool
+availableValues:
+  - 'true'
+  - 'false'
+  - 'TRUE'
+  - 'FALSE'
+value: false
