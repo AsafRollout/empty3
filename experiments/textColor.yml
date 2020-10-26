@@ -1,0 +1,6 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+labels: lbl1
+enabled: false
+flag: textColor
+availableValues: []
