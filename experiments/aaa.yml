@@ -1,0 +1,6 @@
+type: experiment
+flag: gitVariant
+availableValues:
+  - null
+  - ~
+value: null
