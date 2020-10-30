@@ -7,6 +7,7 @@ conditions:
       - '123'
       - '234'
       - '345'
-  - operator: ne
+  - operator: in-array
     property: contextBasedEmail
-    operand: '123'
+    operand:
+      - '123'
