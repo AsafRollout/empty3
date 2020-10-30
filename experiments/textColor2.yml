@@ -2,5 +2,6 @@
 type: experiment
 flag: textColor2
 availableValues:
+  - ggg
   - red
-value: red
+value: ggg
