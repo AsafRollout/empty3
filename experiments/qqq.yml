@@ -1,4 +1,5 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
+labels: lbl1
 flag: qqq
 value: true
