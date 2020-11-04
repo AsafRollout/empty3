@@ -1,0 +1,8 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: acmeExperimentFoo
+description: Applies foo to our Nifty App
+labels: do-not-merge
+stickinessProperty: fixed
+flag: acmeFlagControl
+value: false
